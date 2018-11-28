@@ -12,7 +12,8 @@ GtkWidget *widgetControleNivel;
 //GtkWidget *widgetMisturarCanais;
 GtkWidget *widgetEspessura, *widgetComprimento;
 GtkWidget *widgetAleatorio;
-GtkWidget *widgetPinceladasArea;
+GtkWidget *widgetPinceladasComprimento;
+GtkWidget *widgetPinceladasAltura;
 
 Imagem meuFiltro(Imagem origem);
 void inicializarWidgetsMeuFiltro();
